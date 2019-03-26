@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{26FE745C-E011-1DEA-63DA-20C6364DA6A7}") = "AndroidVoice", "Assembly-CSharp.csproj", "{11A362F1-4C56-7A2D-924D-762D8510348A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A362F1-4C56-7A2D-924D-762D8510348A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A362F1-4C56-7A2D-924D-762D8510348A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A362F1-4C56-7A2D-924D-762D8510348A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A362F1-4C56-7A2D-924D-762D8510348A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
